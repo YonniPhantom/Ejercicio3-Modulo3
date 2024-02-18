@@ -1,0 +1,19 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input[type="number"],
+button {
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+}
